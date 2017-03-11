@@ -1,0 +1,12 @@
+		body {
+			font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+			text-align: center;
+			font-size: 300%;
+
+			background: url('http://i.imgur.com/iashMw5.png') fixed center no-repeat;
+		}
+
+		small {
+			color: #ccc;
+			font-size: 50%;
+		}
